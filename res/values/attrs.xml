@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleImageButton">
+	<attr name="android:checked" />
+	<attr name="android:src" />
+	<attr name="android:tint" />
+	<attr name="checkedSrc" format="reference|color" />
+	<attr name="checkedTint" format="color" />
+	<attr name="checkedBlurRadius" format="float" />
+    </declare-styleable>
+</resources>
